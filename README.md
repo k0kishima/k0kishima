@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div align="left"> 
+  <a href="https://www.linkedin.com/in/k0kishima" ref="nofollow">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
 <!--
 **k0kishima/k0kishima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
