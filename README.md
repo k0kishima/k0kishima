@@ -23,6 +23,7 @@
 - Ruby
 - JavaScript
 - TypeScript
+- Node.js
 - Python
 - PHP
 - Perl
@@ -34,6 +35,7 @@
 
 - Ruby on Rails
 - React, Next.js, jQuery
+- NestJS
 - Flask
 - Laravel, CakePHP, ZendFramework, Slim
 - SAStruts
@@ -57,6 +59,7 @@
 #### その他
 
 - GraphQL
+- OAuth2.0. OIDC, Auth0
 - Jenkins
 - CircleCI
 - Re:dash, Metabase
@@ -64,6 +67,7 @@
 - Sentry, Errbit
 - Heroku, Vercel
 - Selenium
+- Autify
 - Webpack, gulp
 - Semantic UI, MUI, Twitter Bootstrap
 - Redmine, JIRA, Confluence, Asana, Backlog
