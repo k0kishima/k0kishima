@@ -8,6 +8,14 @@
 
 <br>
 
+### ポートフォリオ
+
+| リポジトリ                                                                        | 概要                                                 | ご確認いただける事柄                                                                     |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [blue_magic](https://github.com/k0kishima/blue_magic)                             | ボートレースの予想から舟券の購入を自動で行うシステム | Rails での実装、システムアーキテクチャ設計、RDBMS でのデータ設計など                     |
+| [chess_board](https://github.com/k0kishima/chess_board)                           | ブラウザで利用できるチェス盤                         | React/TypeScript での実装(Redux 実装、コンポーネント設計, storybook, ユニットテストなど) |
+| [crossword_brain_training](https://github.com/k0kishima/crossword_brain_training) | 簡易脳トレ用ツール                                   | 〃                                                                                       |
+
 ### スキル
 
 #### プログラミング言語
@@ -25,7 +33,7 @@
 #### フレームワーク
 
 - Ruby on Rails
-- React, Next.jp, jQuery
+- React, Next.js, jQuery
 - Flask
 - Laravel, CakePHP, ZendFramework, Slim
 - SAStruts
