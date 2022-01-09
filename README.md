@@ -1,4 +1,4 @@
-### Hi there 👋
+### 職務経歴
 
 <div align="left"> 
   <a href="https://www.linkedin.com/in/k0kishima" ref="nofollow">
@@ -6,17 +6,114 @@
   </a>
 </div>
 
-<!--
-**k0kishima/k0kishima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### スキル
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### プログラミング言語
+
+- Ruby
+- JavaScript
+- TypeScript
+- Python
+- PHP
+- Perl
+- Java
+- Swift
+- Objective-C
+
+#### フレームワーク
+
+- Ruby on Rails
+- React, Next.jp, jQuery
+- Flask
+- Laravel, CakePHP, ZendFramework, Slim
+- SAStruts
+
+#### RDB/NoSQL
+
+- MySQL
+- PostgreSQL
+- MongoDB
+- Redis
+
+#### インフラ関連（RDB 以外のミドルウェア）
+
+- AWS
+  - VPC, EC2, RDS, Route53, S3, IAM, SQS, SNS, SMS, Cloud Formation
+- Docker, Vagrant, VMware
+- Terraform, Chef
+- Apache, Nginx
+- puma, unicorn
+
+#### その他
+
+- GraphQL
+- Jenkins
+- CircleCI
+- Re:dash, Metabase
+- Git, SVN
+- Sentry, Errbit
+- Heroku, Vercel
+- Selenium
+- Webpack, gulp
+- Semantic UI, MUI, Twitter Bootstrap
+- Redmine, JIRA, Confluence, Asana, Backlog
+- TDD, RSpec, Jest
+- Storybook
+- Agile, Scrum, DDD
+
+## スキル
+
+### プログラミング言語
+
+- Ruby
+- JavaScript
+- TypeScript
+- Python
+- PHP
+- Perl
+- Java
+- Swift
+- Objective-C
+
+### フレームワーク
+
+- Ruby on Rails
+- React, Next.jp, jQuery
+- Flask
+- Laravel, CakePHP, ZendFramework, Slim
+- SAStruts
+
+### RDB/NoSQL
+
+- MySQL
+- PostgreSQL
+- MongoDB
+- Redis
+
+### インフラ関連（RDB 以外のミドルウェア）
+
+- AWS
+  - VPC, EC2, RDS, Route53, S3, IAM, SQS, SNS, SMS, Cloud Formation
+- Docker, Vagrant, VMware
+- Terraform, Chef
+- Apache, Nginx
+- puma, unicorn
+
+### その他
+
+- GraphQL
+- Jenkins
+- CircleCI
+- Re:dash, Metabase
+- Git, SVN
+- Sentry, Errbit
+- Heroku, Vercel
+- Selenium
+- Webpack, gulp
+- Semantic UI, MUI, Twitter Bootstrap
+- Redmine, JIRA, Confluence, Asana, Backlog
+- TDD, RSpec, Jest
+- Storybook
+- Agile, Scrum, DDD
