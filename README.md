@@ -63,6 +63,7 @@
 - Jenkins
 - CircleCI
 - Re:dash, Metabase
+- Renovate, Dependabot
 - Git, SVN
 - Sentry, Errbit
 - Heroku, Vercel
