@@ -61,8 +61,7 @@
 
 - GraphQL
 - OAuth2.0. OIDC, Auth0
-- Jenkins
-- CircleCI
+- GitHub Actions, Jenkins, CircleCI
 - Re:dash, Metabase
 - Renovate, Dependabot
 - Git, SVN
