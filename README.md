@@ -40,7 +40,7 @@
 - Ruby on Rails
 - React, Next.js, jQuery
 - NestJS
-- Flask
+- Django, Django REST framework, Flask
 - Laravel, CakePHP, ZendFramework, Slim
 - SAStruts
 
