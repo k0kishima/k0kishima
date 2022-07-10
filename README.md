@@ -15,6 +15,7 @@
 | [blue_magic](https://github.com/k0kishima/blue_magic)                             | ボートレースの予想から舟券の購入を自動で行うシステム | Rails での実装、システムアーキテクチャ設計、RDBMS でのデータ設計など                     |
 | [blue_magic_front](https://github.com/k0kishima/blue_magic_front) | 上記の管理画面（※未完成） | React/TypeScript での実装(React Query + GraphQLでのデータフェッチング, OAuth2.0での認証処理) |                                                            |
 | [chess_board](https://github.com/k0kishima/chess_board)                           | ブラウザで利用できるチェス盤                         | React/TypeScript での実装(Redux 実装、コンポーネント設計, storybook, ユニットテストなど) |
+| [tamenchan_trainer](https://github.com/k0kishima/tamenchan_trainer) | 麻雀の多面待ちを覚えるためのWEBアプリ                                   | 〃 |
 | [crossword_brain_training](https://github.com/k0kishima/crossword_brain_training) | 簡易脳トレ用ツール                                   | 〃 |
 | [machine_learning_hands_on](https://github.com/k0kishima/machine_learning_hands_on) | 機械学習の自習用リポジトリ（競馬予想をテーマにロジスティック回帰を行う） | Pythonでの実装（モデル実装や、スクレイピング、Pandasによるデータ分析等） |                                                            |
 | [mnemonic_trainer](https://github.com/k0kishima/mnemonic_trainer) | 記憶力強化アプリで用いるAPI（※未完成） | NestJSでの実装（REST API実装など） |                                                            |
