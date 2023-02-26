@@ -39,12 +39,13 @@
 
 #### フレームワーク
 
-- Ruby on Rails
-- React, Next.js, jQuery
-- NestJS
+- NestJS, Express
+- React, Next.js, Angular, jQuery
 - Django, Django REST framework, Flask
+- Ruby on Rails
 - Laravel, CakePHP, ZendFramework, Slim
 - SAStruts
+- React Native
 
 #### RDB/NoSQL
 
@@ -56,7 +57,7 @@
 #### インフラ関連（RDB 以外のミドルウェア）
 
 - AWS
-  - VPC, EC2, RDS, Route53, S3, IAM, SQS, SNS, SMS, Cloud Formation
+  - VPC, EC2, RDS, Route53, S3, IAM, SQS, SNS, SMS, Cloud Formation, Cognito, AWS Lambda, Amazon API Gateway
 - Docker, Vagrant, VMware
 - Terraform, Chef
 - Apache, Nginx
