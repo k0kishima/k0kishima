@@ -15,27 +15,23 @@ Last Updated on 1/13/2026, 12:30:58 AM</p>
 
 ### ポートフォリオ
 
-| リポジトリ                                                                        | 概要                                                 | ご確認いただける事柄                                                                     |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| [blue_magic](https://github.com/k0kishima/blue_magic)                             | ボートレースの予想から舟券の購入を自動で行うシステム | Rails での実装、システムアーキテクチャ設計、RDBMS でのデータ設計など                     |
-| [blue_magic_front](https://github.com/k0kishima/blue_magic_front) | 上記の管理画面（※未完成） | React/TypeScript での実装(React Query + GraphQLでのデータフェッチング, OAuth2.0/OIDCでの認証・認可処理の実装) |                                                            |
-| [chess_board](https://github.com/k0kishima/chess_board)                           | ブラウザで利用できるチェス盤                         | React/TypeScript での実装(Redux 実装、コンポーネント設計, storybook, ユニットテストなど) |
-| [mahjong-solo](https://github.com/k0kishima/mahjong-solo) | 1人麻雀用WEBアプリ                                   | 〃 |
-| [tamenchan_trainer](https://github.com/k0kishima/tamenchan_trainer) | 麻雀の多面待ちを覚えるためのWEBアプリ                                   | 〃 |
-| [crossword_brain_training](https://github.com/k0kishima/crossword_brain_training) | 簡易脳トレ用ツール                                   | 〃 |
-| [machine_learning_hands_on](https://github.com/k0kishima/machine_learning_hands_on) | 機械学習の自習用リポジトリ（競馬予想をテーマにロジスティック回帰を行う） | Pythonでの実装（モデル実装や、スクレイピング、Pandasによるデータ分析等） |                                                            |
-| [mnemonic_trainer](https://github.com/k0kishima/mnemonic_trainer) | 記憶力強化アプリで用いるAPI（※未完成） | NestJSでの実装（REST API実装など） |                                                            |
+| リポジトリ | 概要 | ご確認いただける事柄 |
+| -------- | ---- | ---------------- |
+| [checkmate-works/blindfold-chess](https://github.com/checkmate-works/blindfold-chess)<br>🔗[www.blindfold-chess.online](https://www.blindfold-chess.online) | 目隠しチェスの訓練プラットフォーム | 意図してターゲットキーワードで上位達成<br>「blindfold chess」でGoogle検索2位(2026年1月現在)<br>企画立案・市場選定・マーケティング視点など<br>※ 実装はVibe Codingで実施 |
+| [metaboatrace(org)](https://github.com/metaboatrace) | ボートレース予想AI | 大規模システムの設計例<br>IaC関連のコードも包含 |
+| [machine_learning_hands_on](https://github.com/k0kishima/machine_learning_hands_on) | 機械学習の自習用リポジトリ<br>（競馬予想をテーマにロジスティック回帰を行う） | Pythonでの実装（モデル実装や、スクレイピング、Pandasによるデータ分析等） |
+| [blue_magic](https://github.com/k0kishima/blue_magic)<br>※ deprecated | ボートレースの予想から舟券の購入を自動で行うシステム | Rails での実装、システムアーキテクチャ設計、RDBMS でのデータ設計など |
 
 
 ### スキル
 
 #### プログラミング言語
 
-- Ruby
-- JavaScript
 - TypeScript
+  - JavaScript
 - Node.js
 - Python
+- Ruby
 - PHP
 - Perl
 - Java
@@ -45,12 +41,12 @@ Last Updated on 1/13/2026, 12:30:58 AM</p>
 #### フレームワーク
 
 - NestJS, Express
-- React, Next.js, Angular, jQuery
+- React, Next.js, Angular, Vue, Nuxt
+- React Native
 - Django, Django REST framework, Flask
 - Ruby on Rails
 - Laravel, CakePHP, ZendFramework, Slim
 - SAStruts
-- React Native
 
 #### RDB/NoSQL
 
