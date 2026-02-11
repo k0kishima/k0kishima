@@ -17,6 +17,7 @@ Last Updated on 2/10/2026, 12:49:06 AM</p>
 
 | リポジトリ | 概要 | ご確認いただける事柄 |
 | -------- | ---- | ---------------- |
+| [shikigami](https://github.com/k0kishima/shikigami) | オンデマンド型AIエージェントオーケストレーター | AIの運用とその背景にある考え方の例示<br>※ 選考の参考のため一時的に公開 |
 | [checkmate-works/blindfold-chess](https://github.com/checkmate-works/blindfold-chess)<br>🔗[www.blindfold-chess.online](https://www.blindfold-chess.online) | 目隠しチェスの訓練プラットフォーム | 意図してターゲットキーワードで上位達成<br>「blindfold chess」でGoogle検索2位(2026年1月現在)<br>企画立案・市場選定・マーケティング視点など<br>※ 実装はVibe Codingで実施 |
 | [metaboatrace(org)](https://github.com/metaboatrace) | ボートレース予想AI | 大規模システムの設計例<br>IaC関連のコードも包含 |
 | [machine_learning_hands_on](https://github.com/k0kishima/machine_learning_hands_on) | 機械学習の自習用リポジトリ<br>（競馬予想をテーマにロジスティック回帰を行う） | Pythonでの実装（モデル実装や、スクレイピング、Pandasによるデータ分析等） |
