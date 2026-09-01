@@ -17,12 +17,11 @@ Last Updated on 8/31/2026, 4:56:52 AM</p>
 
 | リポジトリ | 概要 | ご確認いただける事柄 |
 | -------- | ---- | ---------------- |
-| [shikigami](https://github.com/k0kishima/shikigami) | 🤖 オンデマンド型AIエージェントオーケストレーター | AIの運用とその背景にある考え方の例示<br>※ 選考を受ける際の参考として一時的に公開 |
-| [checkmate-works/blindfold-chess](https://github.com/checkmate-works/blindfold-chess)<br>🔗[www.blindfold-chess.online](https://www.blindfold-chess.online) | ♟️ 目隠しチェスの訓練プラットフォーム | 🥇「blindfold chess」でGoogle検索1位達成(2026年2月)<br>企画立案・市場選定・マーケティング視点など<br>※ 実装はVibe Codingで実施 |
-| [metaboatrace(org)](https://github.com/metaboatrace) | 🚤 ボートレース予想AI | 大規模システムの設計例<br>IaC関連のコードも包含 |
+| [checkmate-works/blindfold-chess](https://github.com/checkmate-works/blindfold-chess)<br>🔗[www.blindfold-chess.online](https://www.blindfold-chess.online) | ♟️ 目隠しチェスの訓練プラットフォーム | 🥇「blindfold chess」でGoogle検索1位達成(2026年2月)<br>企画立案・市場選定・マーケティング視点など |
+| [parqsee](https://github.com/k0kishima/parqsee) | 📊 Parquetファイルビューアー<br>（Tauri v2製のデスクトップアプリ） | Rust + TypeScript によるデスクトップアプリ実装<br>（検索・ソート・ページネーション等を備えたデータ表示） |
 | [machine_learning_hands_on](https://github.com/k0kishima/machine_learning_hands_on) | 🏇 機械学習の自習用リポジトリ<br>（競馬予想をテーマにロジスティック回帰を行う） | Pythonでの実装（モデル実装や、スクレイピング、Pandasによるデータ分析等） |
+| [shikigami](https://github.com/k0kishima/shikigami)<br>※ deprecated | 🤖 オンデマンド型AIエージェントオーケストレーター | AIの運用とその背景にある考え方の例示 |
 | [blue_magic](https://github.com/k0kishima/blue_magic)<br>※ deprecated | 🚤 ボートレースの予想から舟券の購入を自動で行うシステム | システムアーキテクチャ設計、RDBMS でのデータ設計など |
-
 
 ### スキル
 
