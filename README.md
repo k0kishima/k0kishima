@@ -23,62 +23,22 @@ Last Updated on 8/31/2026, 4:56:52 AM</p>
 | [shikigami](https://github.com/k0kishima/shikigami)<br>※ deprecated | 🤖 オンデマンド型AIエージェントオーケストレーター | AIの運用とその背景にある考え方の例示 |
 | [blue_magic](https://github.com/k0kishima/blue_magic)<br>※ deprecated | 🚤 ボートレースの予想から舟券の購入を自動で行うシステム | システムアーキテクチャ設計、RDBMS でのデータ設計など |
 
-### スキル
+### アクティビティ
 
-#### プログラミング言語
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k0kishima&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k0kishima&theme=github" width="100%" />
+</picture>
 
-- TypeScript
-  - JavaScript
-- Node.js
-- Python
-- Ruby
-- PHP
-- Perl
-- Java
-- Swift
-- Objective-C
+### Core Stack
 
-#### フレームワーク
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,python,rails,rust,aws,terraform,docker,graphql&perline=12" />
 
-- NestJS, Express
-- React, Next.js, Angular, Vue, Nuxt
-- React Native
-- Django, Django REST framework, Flask
-- Ruby on Rails
-- Laravel, CakePHP, ZendFramework, Slim
-- SAStruts
-
-#### RDB/NoSQL
-
-- MySQL
-- PostgreSQL
-- MongoDB
-- Redis
-
-#### インフラ関連（RDB 以外のミドルウェア）
-
-- AWS
-  - VPC, EC2, RDS, Route53, S3, IAM, SQS, SNS, SMS, Cloud Formation, Cognito, AWS Lambda, Amazon API Gateway
-- Docker, Vagrant, VMware
-- Terraform, Chef
-- Apache, Nginx
-- puma, unicorn
-
-#### その他
-
-- GraphQL
-- OAuth2.0. OIDC, Auth0
-- GitHub Actions, Jenkins, CircleCI
-- Re:dash, Metabase
-- Renovate, Dependabot
-- Git, SVN
-- Sentry, Errbit
-- Heroku, Vercel
-- Selenium
-- Autify
-- Webpack, gulp
-- Semantic UI, MUI, Twitter Bootstrap
-- Redmine, JIRA, Confluence, Asana, Backlog
-- TDD, RSpec, Jest
-- Storybook
-- Agile, Scrum, DDD
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k0kishima&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k0kishima&theme=github" height="220" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k0kishima&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k0kishima&theme=github" height="220" />
+</picture>
