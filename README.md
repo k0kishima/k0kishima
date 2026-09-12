@@ -10,7 +10,7 @@
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/k0kishima" target="_blank" rel="noopener noreferrer"><img alt="k0kishimaのLAPRASでのスコアは次の通りです: エンジニアリング: 3.86 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.25 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.86&b=3.48&i=3.25&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 9/11/2026, 4:05:40 AM</p>
+Last Updated on 9/12/2026, 4:06:18 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ### ポートフォリオ
